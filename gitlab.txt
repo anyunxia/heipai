@@ -1,0 +1,24 @@
+gitlab账号：anyunxia@97705.net
+密码：anyunxia0621
+
+
+邮箱登录地址：mail.97705.net
+密码：YS84Nhc8h2
+
+
+gitlab的线上地址：https://git.97705.net/
+
+
+进入ucpay-mgr-v2找到index打开OTC收银台
+
+webstorm启动vue项目配置：https://www.cnblogs.com/linsx/p/8553649.html
+file:///C:/object/unipay-web_client/valuehub/ico-server/public/home-page/index.html
+
+jq源码：https://code.jquery.com/jquery-3.3.1.js	
+
+
+jqueryUi库（一些简单的小效果）：http://api.jqueryui.com/category/all/
+
+滚动下拉动画第四个
+全屏幕滚动效果http://www.jq22.com/jquery-info11908
+html5粒子效果背景http://www.jq22.com/jquery-info9838   http://www.jq22.com/jquery-info9086  http://www.jq22.com/jquery-info4374
